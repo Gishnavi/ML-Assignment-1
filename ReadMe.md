@@ -22,7 +22,7 @@ jupyter notebook
 
  3. *Clone this repository*: You can clone this repository and open this in Your notebook:
 git
-git clone https://github.com/Gishnavi/Machine-Learning
+git clone https://github.com/Gishnavi/ML-Assignment-1
 
 
 
